@@ -4,11 +4,11 @@ var bootState = {
   },
 
   create: function() {
-    game.stage.backgroundColor = '#3498db';
+    game.stage.backgroundColor = '#6AD7E5';
     game.physics.startSystem(Phaser.Physics.ARCADE);
 
     game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
-    document.body.style.backgroundColor = '#3498db';
+    document.body.style.backgroundColor = '#6AD7E5';
 
     game.scale.minWidth = 250;
     game.scale.minHeight = 170;

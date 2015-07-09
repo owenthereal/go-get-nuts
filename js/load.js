@@ -12,7 +12,7 @@ var loadState = {
     game.load.image('enemy', 'assets/bomb.png');
     game.load.image('coin', 'assets/nut.png');
     game.load.image('pixel', 'assets/pixel.png');
-    game.load.image('background', 'assets/background.png');
+    //game.load.image('background', 'assets/background.png');
     game.load.spritesheet('mute', 'assets/muteButton.png', 28, 22);
     game.load.image('jumpButton', 'assets/jumpButton.png');
     game.load.image('rightButton', 'assets/rightButton.png');

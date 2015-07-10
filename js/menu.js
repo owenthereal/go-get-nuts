@@ -14,7 +14,7 @@ var menuState = {
       localStorage.setItem('bestScore', game.global.score);
     }
 
-    var text = 'score: ' + game.global.score + '\nbest score: ' + localStorage.getItem('bestScore') + '\nsource: github.com/jingweno/go-get-nuts';
+    var text = 'score: ' + game.global.score + '\nbest score: ' + localStorage.getItem('bestScore');
     var scoreLabel = game.add.text(game.world.centerX, game.world.centerY, text, { font: '25px Arial', fill: '#ffffff', align: 'center' });
     scoreLabel.anchor.setTo(0.5, 0.5);
 

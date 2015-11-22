@@ -1,6 +1,6 @@
 # Go Get Nuts
 
-**Play it at http://owenou.com/go-get-nuts**.
+**Play it at http://jingweno.github.io/go-get-nuts**.
 
 The basic idea of the game is you control a [Gopher](https://golang.org) to collect nuts and avoid bombs.
 This is a HTML5 game that should work everywhere, including on desktops, phones and tablets.
